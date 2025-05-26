@@ -23,7 +23,7 @@ A simple full-stack dictionary application where users can search for words, vie
 
 ---
 
-## 🧠 Bonus Features (Optional)
+## 🧠 Bonus Features 
 
 - ✏️ Edit Word Details  
 - 🗑️ Delete Word Entry  
@@ -164,8 +164,8 @@ Delete a word by its ID.
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/word-dictionary-app.git
-cd word-dictionary-app
+git clone https://github.com/Bhardwaj-Prabal/SignLanguageDictionary.git
+cd SignLanguageDictionary-app
 ```
 
 2. **Install Dependencies**
@@ -182,7 +182,7 @@ PORT=5000
 
 4. **Start the Server**
 ```bash
-npm start
+npm run dev
 ```
 
 ---
